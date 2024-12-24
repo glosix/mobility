@@ -5,7 +5,7 @@ https://play.google.com/store/apps/details?id=com.speedautosystems.crs
 
 https://apps.apple.com/us/app/speed-car-rental-software-crs/id1372704225
 
-## ARRENCO
+## ARENCO
 https://play.google.com/store/apps/details?id=com.speedautosystems.mcc.dollar
 
 https://apps.apple.com/us/app/vms-dollar-uae/id6444195021
@@ -47,6 +47,6 @@ https://apps.apple.com/pk/app/rent-solutions/id1658702329
 https://play.google.com/store/apps/details?id=com.speedautosystems.limocloudapp
 
 
-## USKSCS
+## UKSCS
 https://apps.apple.com/us/app/uk-vehicle-safety-check-scs/id1522186898
 
